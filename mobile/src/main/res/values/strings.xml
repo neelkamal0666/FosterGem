@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FosterGem</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>My Feeds</item>
+        <item>My Bookmarks</item>
+        <item>To Read</item>
+    </string-array>
+    <string name="drawer_open">My Profile</string>
+    <string name="drawer_close">FosterGem</string>
+</resources>
